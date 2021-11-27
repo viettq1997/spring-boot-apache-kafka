@@ -1,5 +1,5 @@
 ## step 1
-  - create docker-compose.yml file to install zookeeper and kafka
+  - create docker-compose.yml file to install zookeeper and kafka (I was using binami by VMWare)
 # step 2
   - create kafka-producer to pulish message
 # step 3
