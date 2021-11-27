@@ -1,0 +1,8 @@
+
+#kafka configuration
+
+kafka-bootstrap-servers-config: 127.0.0.1:9092
+kafka-consumer-group-id-string: group_id_string
+kafka-consumer-group-id-user: group_id_user
+server:
+  port: 8081
